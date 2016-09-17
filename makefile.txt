@@ -1,0 +1,5 @@
+all:
+	gcc graphics.c -o graphics
+
+clean:
+	rm -rf graphics *~
